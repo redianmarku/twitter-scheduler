@@ -29,7 +29,7 @@ pip install tk x_pyAPI
 1. **Download the Script**: Clone the repository or download the script directly.
 
    ```bash
-   git clone https://github.com/yourusername/twitter-scheduler.git
+   git clone https://github.com/redianmarku/twitter-scheduler.git
    cd twitter-scheduler
    ```
 
